@@ -48,7 +48,7 @@ The administrator can approve the permissions by logging in as admin. It can ass
 
 #### Printout of Consent Form
 
-![Uygulama Ekran Görüntüsü](https://imgyukle.com/f/2022/01/29/o8Crgo.png)
+![Uygulama Ekran Görüntüsü](https://imgyukle.com/f/2022/01/29/o8YbFM.jpg)
 ## Lisans
 
 [MIT](https://choosealicense.com/licenses/mit/)
