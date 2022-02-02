@@ -16,7 +16,7 @@ The administrator can approve the permissions by logging in as admin. It can ass
 ## Software requirements used
 
 - MSSQL
-- ASP.NET WEBFORM
+- ASP.NET 
 - ENTITY FRAMEWORK
 - C#, JavaScript, CSS, HTML5
 
